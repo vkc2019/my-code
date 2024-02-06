@@ -1,0 +1,42 @@
+- enums
+- annotations
+- serialization
+- concuranccy
+- synchronization
+- auto boxinh and unboxing 
+- io stream
+- jdbc
+- generics
+- string handling 
+- lang package  ( String, Integer, )
+
+- abstract, static, final 
+
+- lambda and Stream API
+
+- collections framework
+    - Iterator
+    - collections
+        - List
+            - ArrayList
+            - Vector
+            - LinkedList
+            - Stack
+        - Queue
+            - PriorityQueue
+            - ArrayDeque
+        - Set
+            - SortedSet
+                - Tree Set
+            - LinkedHashSet
+            - HasSet
+        - Deque
+            - LinkedList
+            - ArrayDeque
+    - Map
+        - abstractMap
+            - EnumMap
+            - HashMap
+        - SortedMap
+            - NavigableMap
+                - TreeMap
